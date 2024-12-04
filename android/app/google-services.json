@@ -1,0 +1,239 @@
+{
+  "project_info": {
+    "project_number": "393147038534",
+    "firebase_url": "https://pdf-maker-d6b7a-default-rtdb.firebaseio.com",
+    "project_id": "pdf-maker-d6b7a",
+    "storage_bucket": "pdf-maker-d6b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393147038534:android:13235cea165fddf97ac347",
+        "android_client_info": {
+          "package_name": "com.mycompany.pdfmakerbymugheeskhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393147038534-oh0hhr04a8qkjn1t3bma0g4uj1cfie0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pdfmakerbymugheeskhan",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-iYfl-OyBpCji4CPRNgt7iZpi3Yn4NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393147038534-6dh47r6l13hfiuh47ofutk6274p5b9dt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techozon.pdfMakerFlutterV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393147038534:android:2478ace3e9240ec67ac347",
+        "android_client_info": {
+          "package_name": "com.mycompany.pdfmakerhassan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393147038534-hhdt00cteu923piakn2n56iuotdek5l6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pdfmakerhassan",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-iYfl-OyBpCji4CPRNgt7iZpi3Yn4NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393147038534-6dh47r6l13hfiuh47ofutk6274p5b9dt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techozon.pdfMakerFlutterV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393147038534:android:bc9601f7478fa74e7ac347",
+        "android_client_info": {
+          "package_name": "com.mycompany.testpdfmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393147038534-8osjeduort3p2gbcnojtaruagfge7a2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.testpdfmaker",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-iYfl-OyBpCji4CPRNgt7iZpi3Yn4NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393147038534-6dh47r6l13hfiuh47ofutk6274p5b9dt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techozon.pdfMakerFlutterV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393147038534:android:93ba4420a9325c1b7ac347",
+        "android_client_info": {
+          "package_name": "com.techozon.pdfMakerFlutterV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393147038534-36krk0mbm9jfhc8gqhkjt91du39c1e7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techozon.pdfMakerFlutterV2",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-iYfl-OyBpCji4CPRNgt7iZpi3Yn4NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393147038534-6dh47r6l13hfiuh47ofutk6274p5b9dt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techozon.pdfMakerFlutterV2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393147038534:android:3698515a07f33dae7ac347",
+        "android_client_info": {
+          "package_name": "com.techozon.pdf_maker_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393147038534-3up3fe897ujuvmvf03142jau67vg41k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techozon.pdf_maker_flutter",
+            "certificate_hash": "45b7dacedc56700a7077db9af4f9c07748160212"
+          }
+        },
+        {
+          "client_id": "393147038534-mim5bqpc1f3kgsl4lhr7o0h2ke8qnpp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techozon.pdf_maker_flutter",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-iYfl-OyBpCji4CPRNgt7iZpi3Yn4NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393147038534-2emtq39d451rbp149t858e96g8ket946.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393147038534-6dh47r6l13hfiuh47ofutk6274p5b9dt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techozon.pdfMakerFlutterV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
