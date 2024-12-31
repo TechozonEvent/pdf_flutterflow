@@ -57,7 +57,7 @@ android {
        release {
             keyAlias 'release-key' // Replace with your key alias
             keyPassword 'mykeypassword' // Replace with your key password
-            storeFile file('C:\Users\mughe\my-release-key.keystore') // Replace with the path to your keystore
+            storeFile file('android/app/release-key.keystore') // Replace with the path to your keystore
             storePassword '123456' // Replace with your keystore password
        }
    }
