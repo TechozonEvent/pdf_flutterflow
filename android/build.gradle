@@ -23,6 +23,25 @@ subprojects {
     project.evaluationDependsOn(':app')
 }
 
+// Signing configuration for release builds
+android {
+    signingConfigs {
+        release {
+            keyAlias 'release-key' // Replace with your key alias
+            keyPassword 'mykeypassword' // Replace with your key password
+            storeFile file('C:\Users\mughe\my-release-key.keystore') // Replace with the path to your keystore
+            storePassword '123456' // Replace with your keystore password
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled true // Optional: Enables code shrinking
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+}
+
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
